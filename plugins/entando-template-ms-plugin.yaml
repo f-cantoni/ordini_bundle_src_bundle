@@ -1,4 +1,4 @@
-image: anacleto1984/order_bundle:0.0.2
+image: anacleto1984/order_bundle:0.0.4
 dbms: none
 ingressPath: "/entando-template-api"
 healthCheckPath: "/actuator/health"
