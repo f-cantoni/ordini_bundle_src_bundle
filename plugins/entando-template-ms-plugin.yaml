@@ -1,0 +1,7 @@
+image: germanogiudici/order_bundle:0.0.1
+dbms: none
+ingressPath: "/entando-template-api"
+healthCheckPath: "/actuator/health"
+roles:
+  - "et-first-role"
+  - "et-second-role"
